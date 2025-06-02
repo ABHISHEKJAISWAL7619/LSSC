@@ -1,0 +1,169 @@
+{
+  "navigation": [
+    {
+      "icon": "ri-dashboard-line",
+      "route": "/",
+      "label": "dashboard"
+    },
+    {
+      "icon": "ri-pages-line",
+      "route": "/website-content",
+      "label": "website content"
+    },
+    {
+      "icon": "ri-shield-user-line",
+      "route": "/trainer",
+      "label": "trainer"
+    },
+    {
+      "icon": "ri-user-settings-line",
+      "route": "/assessor",
+      "label": "assessor"
+    },
+    {
+      "icon": "ri-group-line",
+      "route": "/users",
+      "label": "users"
+    }
+  ],
+  "othernav": [
+    {
+      "icon": "ri-settings-5-line",
+      "route": "/settings",
+      "label": "settings"
+    }
+  ],
+  "stats": [
+    {
+      "title": "total trainers",
+      "span": "trained",
+      "icon": "/icon/users.png",
+      "count": "40, 689",
+      "growth": "8.5",
+      "timeline": "yesterday"
+    },
+    {
+      "title": "total assessors",
+      "span": "",
+      "icon": "/icon/grow.png",
+      "count": "10,923",
+      "growth": "1.3",
+      "timeline": "last week"
+    },
+    {
+      "title": "total assessments",
+      "span": "theory",
+      "icon": "/icon/product.png",
+      "count": "89,000",
+      "growth": "4.3",
+      "timeline": "yesterday"
+    },
+    {
+      "title": "reports submitted",
+      "span": "practical",
+      "icon": "/icon/box.png",
+      "count": "2040",
+      "growth": "1.8",
+      "timeline": "yesterday"
+    }
+  ],
+  "information": [
+    {
+      "img": "/img/indeendence.jpg",
+      "title": "hero section",
+      "points": [
+        "Banner management with ( Img, Title )"
+      ],
+      "route" : "/website-content/hero-section"
+    },
+    {
+      "img": "/img/msg.jpg",
+      "title": "notice and updates",
+      "points": [
+        "notice & updates",
+        "training",
+        "assessment"
+      ],
+      "route" : "/website-content/notices-updates"
+    },
+    {
+      "img": "/img/courses.jpg",
+      "title": "courses",
+      "points": [
+        "industry",
+        "candidate"
+      ],
+      "route" : "/website-content/courses"
+    },
+    {
+      "img": "/img/blog.jpg",
+      "title": "blog management",
+      "points": [
+        "news",
+        "events",
+        "courses"
+      ],
+      "route" : "/website-content/blog-management"
+    },
+    {
+      "img": "/img/newsppaper.jpg",
+      "title": "news letter management",
+      "points": [
+        "send bulk email for sharing news"
+      ],
+      "route" : "/website-content/news-letter-management"
+    }
+  ],
+  "trainerstat": [
+    {
+      "title": "total trainers",
+      "icon": "/icon/users.png",
+      "count": "625",
+      "growth": "8.5",
+      "timeline": "yesterday"
+    },
+    {
+      "title": "total batch",
+      "icon": "/icon/product.png",
+      "count": "10,923",
+      "growth": "1.3",
+      "timeline": "yesterday"
+    },
+    {
+      "title": "total assessments",
+      "icon": "/icon/grow.png",
+      "count": "12,423",
+      "growth": "1.3",
+      "timeline": "yesterday"
+    },
+    {
+      "title": "pending approval",
+      "icon": "/icon/watch.png",
+      "count": "12",
+      "growth": "1.8",
+      "timeline": "yesterday"
+    }
+  ],
+  "assessorstat": [
+    {
+       "img": "/icon/assessor/user.svg",
+       "title": "Active Assessors",
+       "count": "124"
+    },
+    {
+       "img": "/icon/assessor/note.svg",
+       "title": "Pending Assignments",
+       "count": "45"
+    },
+    {
+       "img": "/icon/assessor/file.svg",
+       "title": "Reports Under Review",
+       "count": "28"
+    },
+    {
+       "img": "/icon/assessor/refresh.svg",
+       "title": "Approval Pending",
+       "count": "16 "
+    }
+  ]
+}
